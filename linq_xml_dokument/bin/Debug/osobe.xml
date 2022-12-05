@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Osobe>
+  <Osoba>
+    <Ime>FDFG</Ime>
+    <Prezime>FGDF</Prezime>
+    <GodRod>888</GodRod>
+  </Osoba>
+  <Osoba>
+    <Ime>FDFG</Ime>
+    <Prezime>FGDF</Prezime>
+    <GodRod>888</GodRod>
+  </Osoba>
+  <Osoba>
+    <Ime>KJKL</Ime>
+    <Prezime>KLK</Prezime>
+    <GodRod>888</GodRod>
+  </Osoba>
+</Osobe>

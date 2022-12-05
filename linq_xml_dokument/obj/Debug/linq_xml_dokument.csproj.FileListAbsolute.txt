@@ -1,0 +1,12 @@
+C:\Users\ucenik\source\repos\linq_xml_dokument\bin\Debug\linq_xml_dokument.exe.config
+C:\Users\ucenik\source\repos\linq_xml_dokument\bin\Debug\linq_xml_dokument.exe
+C:\Users\ucenik\source\repos\linq_xml_dokument\bin\Debug\linq_xml_dokument.pdb
+C:\Users\ucenik\source\repos\linq_xml_dokument\obj\Debug\linq_xml_dokument.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\linq_xml_dokument\obj\Debug\linq_xml_dokument.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\linq_xml_dokument\obj\Debug\linq_xml_dokument.Form1.resources
+C:\Users\ucenik\source\repos\linq_xml_dokument\obj\Debug\linq_xml_dokument.Properties.Resources.resources
+C:\Users\ucenik\source\repos\linq_xml_dokument\obj\Debug\linq_xml_dokument.Unos.resources
+C:\Users\ucenik\source\repos\linq_xml_dokument\obj\Debug\linq_xml_dokument.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\linq_xml_dokument\obj\Debug\linq_xml_dokument.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\linq_xml_dokument\obj\Debug\linq_xml_dokument.exe
+C:\Users\ucenik\source\repos\linq_xml_dokument\obj\Debug\linq_xml_dokument.pdb
